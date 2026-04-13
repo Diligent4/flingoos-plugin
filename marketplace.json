@@ -1,0 +1,15 @@
+{
+  "name": "flingoos",
+  "owner": {
+    "name": "Flingoos",
+    "email": "support@flingoos.com"
+  },
+  "plugins": [
+    {
+      "name": "flingoos",
+      "source": ".",
+      "description": "Flingoos context platform — workflows, knowledge bases, and recording via MCP.",
+      "version": "1.0.0"
+    }
+  ]
+}

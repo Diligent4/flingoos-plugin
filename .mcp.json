@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "Flingoos MCP": {
+      "type": "http",
+      "url": "https://mcp.diligent4.com"
+    },
+    "Flingoos Integrations": {
+      "type": "sse",
+      "url": "https://mcp.diligent4.com/integrations/sse"
+    }
+  }
+}

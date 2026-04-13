@@ -1,0 +1,5 @@
+{
+  "name": "flingoos",
+  "description": "Flingoos context platform plugin — provides workflows, knowledge bases, and recording capabilities via the Flingoos MCP server.",
+  "version": "1.0.0"
+}
