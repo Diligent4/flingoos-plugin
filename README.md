@@ -10,22 +10,16 @@ Connect Claude Code to [Flingoos](https://flingoos.com) — a context platform f
 
 ## Installation
 
+### Claude Code CLI (all plans)
+
 ```
 /plugin marketplace add Diligent4/flingoos-plugin
 /plugin install flingoos
 ```
 
-## Usage
+### Claude Cowork (Max, Team, and Enterprise plans)
 
-Once installed, Claude Code can:
-
-- List and search your workflows and knowledge bases
-- Retrieve and follow step-by-step procedures
-- Modify or generate new workflows
-- Upload artifacts (templates, scripts, reference docs)
-- Start recording sessions with `/record`
-
-## Links
-
-- [Flingoos](https://flingoos.com)
-- [Flingoos documentation](https://docs.flingoos.com)
+1. Open the **Plugins** panel in Cowork
+2. Go to the **Personal** tab and click **Add marketplace**
+3. Enter `Diligent4/flingoos-plugin` and click **Sync**
+4. Install the Flingoos plugin from the marketplace list
