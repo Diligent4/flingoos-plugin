@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "flingoos",
-      "source": ".",
+      "source": "..",
       "description": "Flingoos context platform — workflows, knowledge bases, and recording via MCP.",
       "version": "1.0.0"
     }
